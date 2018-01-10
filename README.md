@@ -18,4 +18,4 @@ This is a simple 3 step installation process. You'll want to make sure you alrea
 7. If you wish you can schedule a cron task you must execute it example `path/to/publicsocial/cron.php`
 
 
-**If you need help you can contact me**<a href="https://saulmoalespa.com">@saulmoralespa</a>
+**If you need help you can contact me**<a href="https://saulmoralespa.com">@saulmoralespa</a>
