@@ -16,3 +16,6 @@ This is a simple 3 step installation process. You'll want to make sure you alrea
 5. Open the script in the browser and perform the installation.
 6. Then if everything went well you could configure and set the parameters apike and apisecret for each social network to work.
 7. If you wish you can schedule a cron task you must execute it example `path/to/publicsocial/cron.php`
+
+
+**If you need help you can contact me**<a href="https://saulmoalespa.com">@saulmoralespa</a>
