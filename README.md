@@ -11,11 +11,13 @@ This is a simple 3 step installation process. You'll want to make sure you alrea
 ## Installation
 1. Open a Terminal/Console window.
 2. Change directory to the server root (i.e. `cd /var/www` if your local server root is at /var/www).
-3. Execute comand `composer require saulmoralespa/publicsocial`
-4. Edit the config.php file with the connection data.
-5. Open the script in the browser and perform the installation.
-6. Then if everything went well you could configure and set the parameters apike and apisecret for each social network to work.
-7. If you wish you can schedule a cron task you must execute it example `path/to/publicsocial/cron.php`
+3. Clone the repository (`git clone https://github.com/saulmoralespa/publicsocial.git`)
+4. The **publicsocial** directory should appear in the server root. Change directory to mautic directory (`cd publicsocial`).
+5. Install dependencies (`composer install`).
+6. Edit the config.php file with the connection data.
+7. Open the script in the browser and perform the installation.
+8. Then if everything went well you could configure and set the parameters apike and apisecret for each social network to work.
+9. If you wish you can schedule a cron task you must execute it example `path/to/publicsocial/cron.php`
 
 
 **If you need help you can contact me**<a href="https://saulmoralespa.com">@saulmoralespa</a>
